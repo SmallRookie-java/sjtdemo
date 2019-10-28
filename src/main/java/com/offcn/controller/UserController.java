@@ -71,4 +71,10 @@ public class UserController {
 
     }
 
+    //分支方法
+    public void fenzhi(){
+        System.out.println("新加分支的方法测试============");
+    }
+
+
 }
